@@ -13,16 +13,26 @@ I am an AWS Cloud / DevOps Engineer focused on cloud infrastructure, CI/CD autom
 **Backend & Automation**
 - Python, Flask, FastAPI, SQLAlchemy, Redis, RESTful API
 
-## Featured Projects
+**AI Agent Engineering**
+- Agent orchestration, TDD workflows, MCP tools, FIFO task scheduling, workflow verification, automated documentation
 
-| Project | Focus | What it proves |
+## Cloud Architecture & DevOps Projects
+
+| Project | Focus | What it demonstrates |
 |---|---|---|
-| [beautyCX](https://github.com/Andybobo0825/beautyCX) | Backend + Cloud Architecture | Flask, SQLAlchemy, Redis, S3, CloudFront, JWT |
-| [AWS CI/CD Pipeline on ECS Fargate](https://github.com/Andybobo0825/aws_pipeline_demo) | DevOps CI/CD | CodePipeline, CodeBuild, ECR, ECS Fargate, Terraform |
-| [AWS Incident Response & Observability Lab](https://github.com/Andybobo0825/aws-incident-response-observability-lab) | Observability + Incident Response | CloudWatch, SNS, alarms, runbook, RCA |
-| [AWS DR Gameday Lab](https://github.com/Andybobo0825/aws_DR_Lab) | Disaster Recovery | S3 CRR, Route 53 failover, RTO/RPO, failover testing |
-| [AWS Well-Architected IaC Reviewer](https://github.com/Andybobo0825/aws-well-architected-iac-reviewer) | IaC Review | Terraform static review, security, reliability, cost checks |
-| [AWS FinOps Cost Guardrails](https://github.com/Andybobo0825/aws-finops-cost-guardrails) | Cost Governance | Budget alerts, cost visibility, tagging strategy |
+| [AWS Serverless Architecture — Magic Learning Platform](https://github.com/Andybobo0825/aws-serverless-architecture-pub) | Serverless Architecture | Cognito RBAC, API Gateway, Lambda, DynamoDB PITR, private S3 and CloudFront, signed content URLs, CloudWatch, SNS, AWS Budgets, Terraform guardrails |
+| [AWS CI/CD Pipeline on ECS Fargate](https://github.com/Andybobo0825/aws_pipeline_demo) | DevOps and CI/CD | CodePipeline, CodeBuild, ECR, ECS Fargate, ALB, Terraform, health checks, versioned container deployment |
+| [AWS Incident Response and Observability Lab](https://github.com/Andybobo0825/aws-incident-response-observability-lab) | Observability and Incident Response | CloudWatch dashboards, alarms, SNS, fault injection, Auto Scaling, runbooks, recovery validation, RCA documentation |
+| [AWS DR Gameday Lab](https://github.com/Andybobo0825/aws_DR_Lab) | Disaster Recovery | S3 Cross-Region Replication, Route 53 failover, RTO/RPO validation, SNS notifications, failover and recovery testing |
+| [AWS FinOps Cost Guardrails](https://github.com/Andybobo0825/aws-finops-cost-guardrails) | FinOps and Cost Governance | AWS Budgets, Cost Anomaly Detection, Cost Explorer reports, EventBridge, tag compliance, CloudWatch and SNS cost alerts |
+| [AWS Well-Architected IaC Reviewer](https://github.com/Andybobo0825/aws-well-architected-iac-reviewer) | IaC Governance | Terraform static analysis, security, reliability, operational excellence, cost optimization and performance checks |
+
+## Application & Automation Projects
+
+| Project | Focus | What it demonstrates |
+|---|---|---|
+| [beautyCX](https://github.com/Andybobo0825/beautyCX) | Backend and Cloud Architecture | Flask, SQLAlchemy, SQL Server, Redis, JWT authentication, S3 and CloudFront image delivery, API Gateway, Lambda and SES integration |
+| [Agentic Trade Research](https://github.com/Andybobo0825/agentic-trade-research) | AI Agent Orchestration and Financial Research Automation | LINE webhook integration, authorization, FIFO task scheduling, tmux runtime adapter, MCP/CLI financial tools, human-in-the-loop control and regression testing |
 
 ## Certifications
 
